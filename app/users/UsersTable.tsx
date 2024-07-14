@@ -10,9 +10,7 @@ interface User {
 }
 
 interface Props {
-    searchParams: {
-        sortOrder: string;
-    }
+    sortOrder: string;
   }
 
 
